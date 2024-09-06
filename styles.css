@@ -133,14 +133,20 @@ font-size: 1rem; /* Tamanho da fonte */
 border-radius: 0.6rem; /* Borda arredondada */
 }
 
-.logo-rodape {
-position:absolute;
-bottom: 5px;
-right: 870px;
-border-radius: 50%;
-width: 75px;
-height: auto;
-}
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+  
+  .logo-rodape {
+    position: absolute;
+    bottom: 5px;
+    right: 1150px;
+    border-radius: 50%;
+    width: 75px;
+    height: auto;
+  }
 
 @media (max-width: 768px) {
 h1 {
@@ -162,8 +168,10 @@ section input {
     font-size: 1.3rem; /* Tamanho da fonte dos títulos em telas menores */
 }
 .logo-rodape {
-    width: 20px; /* Reduz o tamanho da imagem em telas menores */
-}
+    right: 10px; /* Ajuste fino para telas menores */
+  }
+
+
 }
 
 /* Responsividade para celulares */
