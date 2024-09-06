@@ -168,7 +168,7 @@ section input {
     font-size: 1.3rem; /* Tamanho da fonte dos títulos em telas menores */
 }
 .logo-rodape {
-    right: 10px; /* Ajuste fino para telas menores */
+    right: 20px; /* Ajuste fino para telas menores */
   }
 
 
@@ -201,7 +201,7 @@ section button {
 }
 
 .logo-rodape {
-    width: 10px; /* Reduz o tamanho da imagem em telas menores */
+    width: 20px; /* Reduz o tamanho da imagem em telas menores */
 }
 
 footer {
