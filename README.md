@@ -1,8 +1,8 @@
 ## Enciclopédia de Videogames
 
 ![OIP](https://github.com/user-attachments/assets/d7692f22-5eb5-45b4-b59f-d1a1d998cdc0)
-(https://video-games-kappa.vercel.app/)
 
+## Link da aplicação na WEB ===> https://video-games-kappa.vercel.app/ <===
 
 ### O que faz essa aplicação?
 
