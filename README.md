@@ -4,7 +4,7 @@ Uma enciclopédia interativa para os amantes de videogames, onde você pode enco
 ![OIP](https://github.com/user-attachments/assets/d7692f22-5eb5-45b4-b59f-d1a1d998cdc0)
 
 
-##🚀 Sobre o Projeto
+🚀 ##Sobre o Projeto
 
 Este projeto é uma Single Page Application (SPA) que funciona como uma enciclopédia de consoles de videogame. Foi criado para ser um hub de informações para gamers e entusiastas, permitindo a busca por detalhes, curiosidades e informações técnicas sobre diversos consoles, desde os clássicos até os mais modernos.
 
