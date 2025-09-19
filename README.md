@@ -1,6 +1,6 @@
 # 🎮 Video Game Console Encyclopedia 🕹️
 
-https://img.odcdn.com.br/wp-content/uploads/2024/11/consoles-antigos-1920x1080.png
+![Games](https://img.odcdn.com.br/wp-content/uploads/2024/11/consoles-antigos-1920x1080.png)
 
 Uma enciclopédia interativa para os amantes de videogames, onde você pode encontrar informações sobre seus consoles favoritos de forma rápida e fácil.
 
