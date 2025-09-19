@@ -1,8 +1,6 @@
-## Enciclopédia de Videogames
+### Enciclopédia de Videogames
 
 ![OIP](https://github.com/user-attachments/assets/d7692f22-5eb5-45b4-b59f-d1a1d998cdc0)
-
-## Link da aplicação na WEB ===> https://video-games-kappa.vercel.app/ <===
 
 ### O que faz essa aplicação?
 
@@ -19,11 +17,14 @@ Você digita o nome do console e *prontinho*: a aplicação te mostra uma lista 
 
 Quando você digita o nome do console, o JavaScript vasculha esse arquivo gigante em busca de um match. Se encontrar, exibe todas as informações relevantes na tela. É como procurar uma palavra em um dicionário, só que muito mais divertido! 
 
-### Como usar?
+### Como usar? (Desenvolvedor)
 
 1. **Clone o repositório:** Baixe o projeto para o seu computador.
 2. **Abra o index.html:** É o arquivo principal da aplicação.
 3. **Comece a pesquisar:** Digite o nome do console e veja a magia acontecer!
+
+### Como usar? (Usuário)
+**Acesse o link: ** https://video-games-kappa.vercel.app/
 
 ### Ideias para melhorar:
 
