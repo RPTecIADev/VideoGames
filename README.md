@@ -1,16 +1,17 @@
-### Enciclopédia de Videogames
+###🎮 Video Game Console Encyclopedia 🕹️
+Uma enciclopédia interativa para os amantes de videogames, onde você pode encontrar informações sobre seus consoles favoritos de forma rápida e fácil.
 
 ![OIP](https://github.com/user-attachments/assets/d7692f22-5eb5-45b4-b59f-d1a1d998cdc0)
 
-🎮 Video Game Console Encyclopedia 🕹️
-Uma enciclopédia interativa para os amantes de videogames, onde você pode encontrar informações sobre seus consoles favoritos de forma rápida e fácil.
 
-🚀 Sobre o Projeto
+##🚀 Sobre o Projeto
+
 Este projeto é uma Single Page Application (SPA) que funciona como uma enciclopédia de consoles de videogame. Foi criado para ser um hub de informações para gamers e entusiastas, permitindo a busca por detalhes, curiosidades e informações técnicas sobre diversos consoles, desde os clássicos até os mais modernos.
 
 A aplicação é construída com tecnologias web front-end puras (HTML, CSS e JavaScript), o que a torna leve, rápida e fácil de manter. O objetivo é oferecer uma experiência de usuário fluida e direta.
 
-✨ Funcionalidades
+##✨ Funcionalidades
+
 Busca em tempo real: Digite o nome de um console e veja os resultados aparecerem instantaneamente.
 
 Banco de dados local: Todas as informações dos consoles estão armazenadas em um arquivo JSON (banco.js), o que torna a aplicação extremamente rápida, pois não depende de requisições externas.
@@ -19,7 +20,9 @@ Design responsivo: A interface se adapta a diferentes tamanhos de tela, permitin
 
 Fácil de expandir: Adicionar novos consoles é tão simples quanto editar o arquivo banco.js.
 
-🛠️ Tecnologias Utilizadas
+
+##🛠️ Tecnologias Utilizadas
+
 O projeto foi construído utilizando as seguintes tecnologias:
 
 HTML5: Para a estrutura semântica da página.
@@ -30,7 +33,8 @@ JavaScript (ES6+): Para toda a lógica da aplicação, incluindo a manipulação
 
 JSON: Como formato para o banco de dados de consoles.
 
-⚙️ Como Executar o Projeto
+
+##⚙️ Como Executar o Projeto
 Como este é um projeto puramente front-end, você não precisa de um servidor complexo para executá-lo. Basta seguir os passos abaixo:
 
 Clone o repositório:
