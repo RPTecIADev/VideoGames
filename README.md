@@ -57,4 +57,10 @@ Para contribuir:
 4.  **Faça o Push** para a Branch (`git push origin feature/AmazingFeature`).
 5.  **Abra um Pull Request**.
 
+---
+
+## ✒️ Autor
+
+**Rafael Rodrigues Pereira** - [linkedin](https://www.linkedin.com/in/rafaelrpereira/)
+
 Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
