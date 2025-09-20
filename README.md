@@ -32,7 +32,7 @@ Como este é um projeto puramente front-end, você não precisa de um servidor c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/RPTecIADev/VideoGames.git](https://github.com/RPTecIADev/VideoGames.git)
+    git clone https://github.com/RPTecIADev/VideoGames.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
